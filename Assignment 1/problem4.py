@@ -44,28 +44,18 @@ for t in range(0,13):
 
 #0 does not have a solution
 #(1,4)
-#(1,-4)
 #(1,9)
-#(1,-9)
 #2 does not have a solution
 #3 does not have a solution
 #(4,3)
-#(4,-3)
 #(4,10)
-#(4,-10)
 #(5,2)
-#(5,-2)
 #(5,11)
-#(5,-11)
 #(6,5)
-#(6,-5)
 #(6,8)
-#(6,-8)
 #7 does not have a solution
 #(8,6)
-#(8,-6)
 #(8,7)
-#(8,-7)
 #9 does not have a solution
 #(10,0)
 #11 does not have a solution
