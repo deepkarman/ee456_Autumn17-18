@@ -27,3 +27,20 @@ for t in range(0,13):
   else: 
     print '{} does not have a solution'.format(t)
 
+# 0 does not have a solution
+# 1 does not have a solution
+# 2 does not have a solution
+# 3 does not have a solution
+# (4,1)
+# (4,12)
+# 5 does not have a solution
+# 6 does not have a solution
+# 7 does not have a solution
+# (8,2)
+# (8,11)
+# (9,3)
+# (9,10)
+# (10,4)
+# (10,9)
+# 11 does not have a solution
+# 12 does not have a solution
